@@ -1,0 +1,15 @@
+name: Update Pages
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Render the Python Notebook
+      run: |
+        jupyter nbconvert --to html recurrence-protocol.ipynb --output artifacts/recurrence-protocol.html
