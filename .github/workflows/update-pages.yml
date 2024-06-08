@@ -26,3 +26,11 @@ jobs:
     - name: Render the Python Notebook
       run: |
         jupyter nbconvert --to html BBPSSW-protocol.ipynb --output docs/index.html
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/index.html
+        git commit -m "Update Website"
+        git push
