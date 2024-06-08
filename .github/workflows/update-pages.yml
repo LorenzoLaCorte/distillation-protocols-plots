@@ -25,4 +25,4 @@ jobs:
 
     - name: Render the Python Notebook
       run: |
-        jupyter nbconvert --to html recurrence-protocol.ipynb --output artifacts/recurrence-protocol.html
+        jupyter nbconvert --to html recurrence-protocol.ipynb --output docs/recurrence-protocol.html
