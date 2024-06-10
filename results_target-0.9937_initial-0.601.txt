@@ -1,0 +1,119 @@
+
+Round  1
+Initial Fidelity:  0.601
+Success Probability:  0.6095119999999999
+Pairs Needed for this round:  3.2813135754505245
+Comulative Pairs Needed so far:  3.2813135754505245
+Output Fidelity:  0.6216284503012246
+
+Round  2
+Initial Fidelity:  0.6216284503012246
+Success Probability:  0.622762404509591
+Pairs Needed for this round:  3.2114976522626595
+Comulative Pairs Needed so far:  10.537930843896952
+Output Fidelity:  0.646039569543734
+
+Round  3
+Initial Fidelity:  0.646039569543734
+Success Probability:  0.6394198583505654
+Pairs Needed for this round:  3.1278352930094475
+Comulative Pairs Needed so far:  32.960912008833716
+Output Fidelity:  0.6744989339221651
+
+Round  4
+Initial Fidelity:  0.6744989339221651
+Success Probability:  0.6601771954676041
+Pairs Needed for this round:  3.0294896790298824
+Comulative Pairs Needed so far:  99.85474274217385
+Output Fidelity:  0.7069634367552606
+
+Round  5
+Initial Fidelity:  0.7069634367552606
+Success Probability:  0.6856138511388259
+Pairs Needed for this round:  2.917093924922809
+Comulative Pairs Needed so far:  291.2856634279253
+Output Fidelity:  0.7428940629810676
+
+Round  6
+Initial Fidelity:  0.7428940629810676
+Success Probability:  0.715950717619542
+Pairs Needed for this round:  2.793488365581617
+Comulative Pairs Needed so far:  813.7031118466319
+Output Fidelity:  0.7811102136715732
+
+Round  7
+Initial Fidelity:  0.7811102136715732
+Success Probability:  0.7507360525033459
+Pairs Needed for this round:  2.6640521569877404
+Comulative Pairs Needed so far:  2167.7475302626563
+Output Fidelity:  0.8198045124747274
+
+Round  8
+Initial Fidelity:  0.8198045124747274
+Success Probability:  0.7886019399436104
+Pairs Needed for this round:  2.536133756078525
+Comulative Pairs Needed so far:  5497.6976861549765
+Output Fidelity:  0.8568166373892061
+
+Round  9
+Initial Fidelity:  0.8568166373892061
+Success Probability:  0.8273123834776385
+Pairs Needed for this round:  2.4174665337329118
+Comulative Pairs Needed so far:  13290.50016886052
+Output Fidelity:  0.8901265187335629
+
+Round  10
+Initial Fidelity:  0.8901265187335629
+Success Probability:  0.8642328533208448
+Pairs Needed for this round:  2.314191126054663
+Comulative Pairs Needed so far:  30756.757551605016
+Output Fidelity:  0.9183480700205802
+
+Round  11
+Initial Fidelity:  0.9183480700205802
+Success Probability:  0.8970570157335416
+Pairs Needed for this round:  2.229512689741978
+Comulative Pairs Needed so far:  68572.58125662079
+Output Fidelity:  0.9409702447770795
+
+Round  12
+Initial Fidelity:  0.9409702447770795
+Success Probability:  0.9243910037042641
+Pairs Needed for this round:  2.163586612143026
+Comulative Pairs Needed so far:  148362.71876691454
+Output Fidelity:  0.9582656754623899
+
+Round  13
+Initial Fidelity:  0.9582656754623899
+Success Probability:  0.9459024595895071
+Pairs Needed for this round:  2.1143829151981897
+Comulative Pairs Needed so far:  313695.5978131179
+Output Fidelity:  0.9709950784702831
+
+Round  14
+Initial Fidelity:  0.9709950784702831
+Success Probability:  0.9620745806029952
+Pairs Needed for this round:  2.0788409135043033
+Comulative Pairs Needed so far:  652123.2431201006
+Output Fidelity:  0.9800954495504692
+
+Round  15
+Initial Fidelity:  0.9800954495504692
+Success Probability:  0.9738127692927127
+Pairs Needed for this round:  2.0537828862653082
+Comulative Pairs Needed so far:  1339319.5564558934
+Output Fidelity:  0.9864638683714948
+
+Round  16
+Initial Fidelity:  0.9864638683714948
+Success Probability:  0.9821146928148502
+Pairs Needed for this round:  2.0364220336300813
+Comulative Pairs Needed so far:  2727419.854838449
+Output Fidelity:  0.9908530330131723
+
+Round  17
+Initial Fidelity:  0.9908530330131723
+Success Probability:  0.9878784146887258
+Pairs Needed for this round:  2.024540642109472
+Comulative Pairs Needed so far:  5521772.344216756
+Output Fidelity:  0.9938460186668383
